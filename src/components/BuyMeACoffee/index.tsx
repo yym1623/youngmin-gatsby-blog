@@ -59,7 +59,7 @@ const BuyMeACoffee: React.FC = () => {
         </S.Text>
       </S.Button>
 
-      {isModalOpened &&
+      {/* {isModalOpened &&
         createPortal(
           <S.ModalBackground onClick={closeModal}>
             <S.Modal>
@@ -92,7 +92,7 @@ const BuyMeACoffee: React.FC = () => {
             </S.Modal>
           </S.ModalBackground>,
           document.body,
-        )}
+        )} */}
     </>
   );
 };

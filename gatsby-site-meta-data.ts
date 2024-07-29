@@ -2,11 +2,11 @@ export default {
   /**
    * basic Information
    */
-  title: `jeong-min.com`,
-  description: `개발자 단민`,
+  title: `young-min.com`,
+  description: `개발자 영민`,
   language: `ko`,
-  siteUrl: `https://jeong-min.com/`,
-  ogImage: `/og-image.png`, // Path to your in the 'static' folder
+  siteUrl: `https://young-min.com/`,
+  ogImage: ``, // Path to your in the 'static' folder
 
   /**
    * comments setting
@@ -21,22 +21,22 @@ export default {
    * introduce yourself
    */
   author: {
-    name: `이정민`,
-    nickname: `단민`,
-    stack: ['Frontend', 'React', 'Typescript'],
+    name: `윤영민`,
+    nickname: `영민`,
+    stack: ['Frontend', 'Vue', 'Typescript'],
     bio: {
-      email: `ljm991108@gmail.com`,
+      email: `yym16233@gmail.com`,
       residence: 'Seoul, South Korea',
-      bachelorDegree: 'Kyunghee Univ. Computer Engineering (2018.03-2022.02)',
+      bachelorDegree: 'Computer Engineering (2017.03-2021.02)',
     },
     social: {
-      github: `https://github.com/danmin20`,
-      linkedIn: `https://www.linkedin.com/in/jeonming-lee/`,
-      resume: `https://www.figma.com/file/dtkCl6G7G5DVe18DN2LWny/%EC%9D%B4%EC%A0%95%EB%AF%BC-%EC%9D%B4%EB%A0%A5%EC%84%9C?node-id=0%3A1`,
+      github: `https://github.com/yym1623`,
+      linkedIn: `https://www.linkedin.com/in/영민-윤-728ba630a/`,
+      resume: `https://www.figma.com/file/03Le7GFj5cEVf3UOxmQcRE/%EC%9C%A4%EC%98%81%EB%AF%BC-%EC%9D%B4%EB%A0%A5%EC%84%9C?type=design&node-id=0%3A1&mode=design&t=0t8WvqDlul2v9ILp-1`,
     },
     dropdown: {
-      tistory: 'https://danminblog.tistory.com/',
-      velog: 'https://velog.io/@danmin20',
+      tistory: '',
+      velog: '',
     },
   },
 
