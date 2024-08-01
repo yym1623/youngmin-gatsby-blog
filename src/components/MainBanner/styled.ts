@@ -30,7 +30,7 @@ export const Wrapper = styled.div`
   }
 
   @media ${MOBILE_MEDIA_QUERY} {
-    padding: 0 10px;
+    /* padding: 0 10px; */
     margin-top: 80px;
     margin-bottom: 150px;
   }
@@ -159,7 +159,7 @@ export const BuyMeACoffeeWrapper = styled.div`
 
   @media ${MOBILE_MEDIA_QUERY} {
     top: 270px;
-    right: 0;
+    left: 0;
     left: auto;
   }
 `;
